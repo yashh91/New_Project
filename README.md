@@ -4,4 +4,4 @@ Set-up of the project
 
 # Added 
 
-Project added in git repo
+Project added in git repo.
